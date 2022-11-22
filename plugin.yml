@@ -1,0 +1,10 @@
+name: God
+main: ChillatoDev\god\Loader
+version: 1.0
+author: ChillatoDev
+api: 4.0.0
+
+permissions:
+  god.cmd:
+    description:
+    default: op
